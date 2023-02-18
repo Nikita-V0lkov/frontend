@@ -4,7 +4,8 @@
   "description": "lab2",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "keywords": [],
   "author": "Nikita Volkov",
